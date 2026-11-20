@@ -1,0 +1,8 @@
+
+Wykonaj zadanie rozpoznawania / detekcji obrazu wg. jednego z tematów załączonych w sekcji lub według tematu własnego zbliżonego do podanych. W zadaniu użyj preprocesingu by obraz był lepiej rozpoznawalny. Możesz użyć modeli przetrenowanych pobranych z sieci lub samemu przetrenować model (opcja preferowana). 
+
+Zadanie wykonaj na środowisku google collab, github codespace lub własnym (lokalne lub VPS). Jako rozwiązanie umieść link do źródeł. 
+
+Temat: Trener sportowy - detekcja poprawności wykonywania ćwiczeń sportowych
+
+Zalecany biblioteki przez wykładowce: Yolo lub CV2
